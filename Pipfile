@@ -11,6 +11,13 @@ django = "*"
 pylint-django = "*"
 pylint = "*"
 newsapi-python = "*"
+pypdf2 = "*"
+argparse = "*"
+wget = "*"
+bs4 = "*"
+requests = "*"
+json = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.7"
